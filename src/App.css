@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Стили для основного контента */
+.content {
+  float: right;
+}
